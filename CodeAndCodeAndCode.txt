@@ -1,1 +1,3 @@
 Here are changes on master branch
+
+Made some changes for 2.0
