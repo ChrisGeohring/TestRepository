@@ -1,1 +1,2 @@
 Here are changes on master branch
+Extra changes for master branch
