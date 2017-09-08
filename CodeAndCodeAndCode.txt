@@ -1,2 +1,5 @@
 Here are changes on master branch
+
 Extra changes for master branch
+
+Made some changes for 2.0
